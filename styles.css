@@ -1,0 +1,43 @@
+nav li {
+    padding: 10px;
+}
+
+nav img {
+    width: 80px;
+}
+
+.producto {
+    width: 400px;
+}
+
+.precio {
+    color: green;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.linea {
+    width: 100%;
+    height: 5px;
+    background-color: black;
+}
+
+.card-deck {
+    margin: 50px 100px;
+    text-align: center;
+}
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
+
+#catalogo h1 {
+    margin: 25px;
+}
